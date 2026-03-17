@@ -1,4 +1,4 @@
-public class UseCase1HotelBookingApp {
+public class book_my_stay {
     public static void main(String[] args) {
         // Display welcome message
         System.out.println("     Welcome to Book My Stay App     ");
